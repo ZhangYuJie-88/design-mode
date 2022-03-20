@@ -20,6 +20,7 @@
 
 10.**facade**:外观模式
 
+11.**flyweightpattern**:享元模式
 
 
 
