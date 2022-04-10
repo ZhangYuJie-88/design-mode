@@ -28,6 +28,8 @@
 
 14.**templatemethod**:模板方法模式
 
+15.**strategy**:策略模式
+
 
 
 ****
