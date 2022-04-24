@@ -30,6 +30,10 @@
 
 15.**strategy**:策略模式
 
+16.**statepattern**:状态模式
+
+17.**observeprattern**:观察者模式
+
 
 
 ****
