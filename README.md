@@ -34,6 +34,8 @@
 
 17.**observeprattern**:观察者模式
 
+18.**memento**:备忘录模式
+
 
 
 ****
