@@ -40,7 +40,9 @@
 
 20.**Iterator**：迭代器模式
 
-21.**Interpreter**：迭代器模式
+21.**Interpreter**：解释器模式
+
+22.**crp**：责任链模式
 
 
 ****
